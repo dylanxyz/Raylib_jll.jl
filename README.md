@@ -12,6 +12,7 @@ The tarballs for `Raylib_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/raysan5/raylib.git (revision: `ae50bfa2cc569c0f8d5bc4315d39db64005b1b08`)
 * git repository: https://github.com/raysan5/raygui.git (revision: `25c8c65a6e5f0f4d4b564a0343861898c6f2778b`)
+* git repository: https://github.com/raysan5/physac.git (revision: `4a8e17f263fb8e1150b3fbafc96f880c7d7a4833`)
 * files in directory, relative to originating `build_tarballs.jl`: `./bundled`
 
 ## Platforms

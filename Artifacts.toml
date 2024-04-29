@@ -1,8 +1,8 @@
 [[Raylib]]
 arch = "x86_64"
-git-tree-sha1 = "fe830d9cdeae93cbd55b7a7feaeb9a49f5629024"
+git-tree-sha1 = "82fbe7a88528335d9507571f1a3464aafb85cb93"
 os = "windows"
 
     [[Raylib.download]]
-    sha256 = "0c35798415e8342a714353f3b7f8435ed68ad5699d7ac5a4255cf93fdd04a80e"
+    sha256 = "7db321d966fd9f2e2ead4b377e1ff6225e6b86efd6770094bb1401643805b455"
     url = "https://github.com/dylanxyz/Raylib_jll.jl/releases/download/Raylib-v5.0.0+0/Raylib.v5.0.0.x86_64-w64-mingw32.tar.gz"
